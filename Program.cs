@@ -2,6 +2,10 @@ using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
 using TrilhaApiDesafio.Context;
 
+/* 
+Para teste atualizar a string de conexão com banco de dados.
+*/
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
